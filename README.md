@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there 👋
+### Hi there 👋
 Hi, I’m Harshit!
 
 🌍 Find me on the web:
