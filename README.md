@@ -1,6 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
-<!--
+
 **harshgupta1990/harshgupta1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-Hi, I’m Harshit!
+<!--### Hi there 👋 -->
+### Hi, I’m Harshit!
 
 🌍 Find me on the web:
 
