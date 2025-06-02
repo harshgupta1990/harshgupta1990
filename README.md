@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 - LinkedIn: [harshitgupta1509](https://www.linkedin.com/in/harshitgupta1509/)
 
 Some quick info about me:
-- 🔭 I’m currently working on building full-stack web applications.
-- 🌱 I’m currently learning DevOps.
-- 👯 I’m looking to collaborate on DevOps project.
-- 🤔 I’m looking for help with DevOps professionals.
+- 🔭 I’m a passionate Java developer with a strong focus on building scalable backend systems, microservices, and RESTFUL APIs. I enjoy soving complex problems and writing 
+     clean, efficient code.
+- 🌱 I’m currently exploring AI/ML integration with Java (REST APIs).
+- 👯 I’m looking to collaborate on Java+AI/ML Integration project.
+- 🤔 I’m looking for help with AI/ML professionals.
 - 💬 Ask me about Java development.
 - 📫 How to reach me: harshgupta1990@gmail.com
