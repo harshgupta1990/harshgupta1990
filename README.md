@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 ### Hi, I’m Harshit!
 
 🌍 Find me on the web:
-
-- Tweets:   [@_real_harshit](https://twitter.com/real_harshit_)
-- LinkedIn: [harshitgupta1990](https://www.linkedin.com/in/harshitgupta1990/)
+- LinkedIn: [harshitgupta1509](https://www.linkedin.com/in/harshitgupta1509/)
 
 Some quick info about me:
 - 🔭 I’m currently working on building full-stack web applications.
